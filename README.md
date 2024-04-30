@@ -10,7 +10,7 @@ I am a Master student in Computer Science Engineering, with a specialisation in 
 *   ✉️  You can contact me at [m.valentini7@studenti.poliba.it](mailto:m.valentini7@studenti.poliba.it)
 *   🚀  I'm currently working on [ACM RecSys '24 Challenge](http://recsys.acm.org/recsys24/challenge/)
 *   🧠  I'm learning Recommender Systems' optimization and evaluation
-*   🤝  I'm open to collaborating on Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems### Skills
+*   🤝  I'm open to collaborating on Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems
 
 ### Languages and Frameworks
 <p align="left">
