@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marco Valentini
+Hi ! My name is Marco Valentini [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-AI & Data Science Engineer Trainee
+PhD Student @ Politecnico di Bari
 ----------------------------------
 
-I am a Master student in Computer Science Engineering, with a specialisation in Artificial Intelligence and Data Science, at the Polytechnic University of Bari. I've been coding since secondary school, around 2016; I've studied many frameworks and programming languages, such as Java, JavaScript and React; I got my bachelor's degree with a thesis entitled "Web Elliot: a convenient API to launch reproducible Recommendation experiments from your mobile", developed mainly in Python, HTML5, JavaScript and Bootstrap, using the Flask framework to create a Python backend. Now my main focus is on Python and its libraries for ML and DL such as PyTorch, sklearn, Tensorflow. During my career I have learned to use Elliot, a comprehensive framework for recommender system evaluation developed by the SisInfLab research group.
+I am a PhD Student, focusing on Artificial Intelligence and Data Science, at the Polytechnic University of Bari. I've been coding since secondary school, around 2016; I've studied many frameworks and programming languages, such as Java, JavaScript and React; I got my bachelor's degree with a thesis entitled "Web Elliot: a convenient API to launch reproducible Recommendation experiments from your mobile", developed mainly in Python, HTML5, JavaScript and Bootstrap, using the Flask framework to create a Python backend. Now my main focus is on Python and its libraries for ML and DL such as PyTorch, sklearn, Tensorflow. During my career, I have learned how to use Elliot, a comprehensive framework for recommender system evaluation developed by the SisInfLab research group.
 
 *   🌍  I'm based in Bari, Italy
-*   ✉️  You can contact me at [m.valentini7@studenti.poliba.it](mailto:m.valentini7@studenti.poliba.it)
-*   🚀  I'm currently working on [ACM RecSys '24 Challenge](http://recsys.acm.org/recsys24/challenge/)
+*   ✉️  You can contact me at [m.valentini7@phd.poliba.it](mailto:m.valentini7@phd.poliba.it)
+*   🚀  I'm currently working on Collaborative Filtering Neighborhood-based Recommender Systems
 *   🧠  I'm learning Recommender Systems' optimization and evaluation
 *   🤝  I'm open to collaborating on Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems
 
